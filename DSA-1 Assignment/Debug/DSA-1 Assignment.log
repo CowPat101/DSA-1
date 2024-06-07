@@ -1,0 +1,39 @@
+﻿  DSA-1 Assignment.cpp
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(513,20): warning C4244: 'argument': conversion from 'Position' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(517,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(532,17): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(533,18): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(45,34): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(491): message : see reference to function template instantiation 'Position bm_string_change<std::list<Position,std::allocator<Position>>>(T &,std::string &,std::string &)' being compiled
+          with
+          [
+              T=std::list<Position,std::allocator<Position>>
+          ]
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(57,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(146,9): warning C4244: 'initializing': conversion from 'Position' to 'int', possible loss of data
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(150,51): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(151,50): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(164,40): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(176,48): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(179,18): warning C4244: '=': conversion from 'Position' to 'int', possible loss of data
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(337,31): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(500): message : see reference to function template instantiation 'Position kmp_string_change<std::list<Position,std::allocator<Position>>>(T &,std::string &,std::string &)' being compiled
+          with
+          [
+              T=std::list<Position,std::allocator<Position>>
+          ]
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(341,12): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\DSA-1 Assignment\DSA-1 Assignment.cpp(343,15): warning C4244: 'initializing': conversion from 'Position' to 'int', possible loss of data
+  DSA-1 Assignment.vcxproj -> C:\Users\crash\OneDrive - Abertay University\Y2T1\DSA-1\Assignment\DSA-1 Assignment\Debug\DSA-1 Assignment.exe

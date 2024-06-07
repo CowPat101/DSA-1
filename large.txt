@@ -1,0 +1,826 @@
+Penetration enhancers☆
+Adrian C. Williams ⁎, Brian W. Barry
+Drug Delivery Group, School of Pharmacy, University of Bradford, Richmond Road, Bradford, West Yorkshire, BD7 1DP, UK
+article info abstract
+Article history:
+Received 9 September 2003
+Accepted 13 October 2003
+Available online 13 September 2012
+Keywords:
+Penetration enhancers
+Accelerants
+Skin
+Lipids
+Azone
+Dimethylsulphoxide
+Terpenes
+One long-standing approach for improving transdermal drug delivery uses penetration enhancers (also called
+sorption promoters or accelerants) which penetrate into skin to reversibly decrease the barrier resistance. Numerous compounds have been evaluated for penetration enhancing activity, including sulphoxides (such as
+dimethylsulphoxide, DMSO), Azones (e.g. laurocapram), pyrrolidones (for example 2-pyrrolidone, 2P), alcohols
+and alkanols (ethanol, or decanol), glycols (for example propylene glycol, PG, a common excipient in topically
+applied dosage forms), surfactants (also common in dosage forms) and terpenes. Many potential sites and
+modes of action have been identified for skin penetration enhancers; the intercellular lipid matrix in which
+the accelerants may disrupt the packing motif, the intracellular keratin domains or through increasing drug
+partitioning into the tissue by acting as a solvent for the permeant within the membrane. Further potential mechanisms of action, for example with the enhancers acting on desmosomal connections between corneocytes or altering metabolic activity within the skin, or exerting an influence on the thermodynamic activity/solubility of the
+drug in its vehicle are also feasible, and are also considered in this review.
+© 2012 Published by Elsevier B.V.
+Contents
+1. Introduction ............................................................... 0
+2. General principles ............................................................ 0
+3. Penetration enhancers .......................................................... 0
+3.1. Water ............................................................... 0
+3.2. Sulphoxides and similar chemicals ................................................. 0
+3.3. Azone ............................................................... 0
+3.4. Pyrrolidones ........................................................... 0
+3.5. Fatty acids ............................................................ 0
+3.6. Alcohols, fatty alcohols and glycols ................................................. 0
+3.7. Surfactants ............................................................ 0
+3.8. Urea ............................................................... 0
+3.9. Essential oils, terpenes and terpenoids ............................................... 0
+3.10. Phospholipids ........................................................... 0
+3.11. Solvents at high concentrations ................................................... 0
+3.12. Metabolic interventions ...................................................... 0
+4. General comments on penetration enhancers ............................................... 0
+References .................................................................. 0
+1. Introduction
+Human skin is a remarkably efficient barrier, designed to keep “our
+insides in and the outsides out”. This barrier property causes difficulties
+for transdermal delivery of therapeutic agents. One long-standing approach to increase the range of drugs that can be effectively delivered
+via this route has been to use penetration enhancers, chemicals that interact with skin constituents to promote drug flux. To-date, a vast array
+Advanced Drug Delivery Reviews 64 (2012) 128–137
+☆ PII of original article: S0169-409X(03)00241-2. The article was originally published
+in Advanced Drug Delivery Reviews 56 (2004) 603–618.
+⁎ Corresponding author. Tel.: +44 1274 23 4756; fax: +44 1274 23 3496.
+E-mail address: A.C.Williams@bradford.ac.uk (A.C. Williams).
+128
+129
+129
+129
+130
+131
+131
+132
+132
+133
+133
+134
+134
+135
+135
+135
+136
+0169-409X/$ – see front matter © 2012 Published by Elsevier B.V.
+http://dx.doi.org/10.1016/j.addr.2012.09.032
+Contents lists available at SciVerse ScienceDirect
+Advanced Drug Delivery Reviews
+journal homepage: www.elsevier.com/locate/addr
+of chemicals has been evaluated as penetration enhancers (or absorption promoters), yet their inclusion into topical or transdermal formulations is limited since the underlying mechanisms of action of these
+agents are seldom clearly defined. In this article we review some uses
+of the more widely investigated chemical penetration enhancers and
+discuss possible mechanisms of action.
+2. General principles
+Although many chemicals have been evaluated as penetration enhancers in human or animal skins, to-date none has proven to be
+ideal. Some of the more desirable properties for penetration enhancers acting within skin have been given as [1];
+• They should be non-toxic, non-irritating and non-allergenic.
+• They would ideally work rapidly, and the activity and duration of
+effect should be both predictable and reproducible.
+• They should have no pharmacological activity within the body—i.e.
+should not bind to receptor sites.
+• The penetration enhancers should work unidirectionally, i.e. should
+allow therapeutic agents into the body whilst preventing the loss of
+endogenous material from the body.
+• When removed from the skin, barrier properties should return both
+rapidly and fully.
+• The penetration enhancers should be appropriate for formulation
+into diverse topical preparations, thus should be compatible with
+both excipients and drugs.
+• They should be cosmetically acceptable with an appropriate skin
+‘feel’.
+Not surprisingly, no such material has yet been discovered that
+possesses the above ideal properties although some chemicals demonstrate several of the above attributes.
+Penetration enhancers may be incorporated into formulations in
+order to improve drug flux through diverse membranes including
+gastric epithelia or nasal membranes. Diffusion through skin, controlled by the outer most layer, the stratum corneum, can be regarded
+as diffusion through a passive membrane. The steady state flux ( J) of
+a drug through skin can be approximated by Fick's second law of diffusion;
+δC
+δt ¼ Dδ
+2
+C
+δx2 ð1Þ
+where C is the concentration of the diffusing substance, x the space
+co-ordinate measured normal to the section, D the diffusion coefficient, and t is time.
+With skin permeation studies, investigators often use an in vitro
+protocol with a membrane clamped between two compartments,
+one of which contains a drug formulation (the donor) and the other
+compartment holding a receptor solution which provides sink conditions (essentially zero concentration). With sufficient time, steady
+state diffusion across the membrane prevails. Under these conditions
+Eq. (1) may be simplified to;
+dm
+dt ¼ DC0
+h ð2Þ
+where m is the cumulative mass of permeant that passes per unit area
+through the membrane in time t, C0 is the concentration of diffusant
+in the first layer of the membrane at the skin surface contacting the
+source of the penetrant, and h is the membrane thickness.
+In most experimental protocols it is difficult to measure C0 but C0
+′,
+the concentration of diffusant in the donor phase, which bathes the
+membrane, is usually known. C0 and C0
+′ are related by;
+C0 ¼ PC0
+′ ð3Þ
+where P is the partition coefficient of the diffusant between the membrane and bathing solution. Substituting Eq. (3) into Eq. (2) gives:
+dm
+dt ¼ DC0
+′ P
+h ð4Þ
+From Eq. (4), the classic equation used to analyse skin permeation
+data, it can be seen that the flux (dm/dt) is governed by the diffusion
+coefficient of the drug in the stratum corneum, the dissolved effective
+concentration of the drug in the vehicle, the partition coefficient between the formulation and the stratum corneum and the membrane
+thickness. This equation thus illustrates some of the properties that
+may be manipulated on application of a penetration enhancer to the
+skin. Thus, an effective penetration enhancer may increase the diffusion coefficient of the drug in the stratum corneum (i.e. disrupt the
+barrier nature of the stratum corneum), may act to increase the effective concentration of the drug in the vehicle (for example acting as an
+anti-solvent), could improve partitioning between the formulation
+and the stratum corneum (perhaps by altering the solvent nature of
+the skin membrane to improve partitioning into the tissue) or, less
+likely, by decreasing the skin thickness (perhaps by providing a permeation ‘shortcut’ as opposed to a tortuous pathway for a permeant).
+The modes of action of penetration enhancers in general are complex. As will be seen below, at clinically acceptable concentrations,
+most enhancers interact with the intercellular lipid domain of the
+stratum corneum. Fig. 1 is a modification of a scheme proposed by
+Menon and Lee [2] for the action of solvents on this tissue. However,
+the diagram is useful for accelerants in general as a visual aid to much
+of the discussion following below. Further consideration of penetration enhancer mechanisms of action is given in Section 4.
+3. Penetration enhancers
+The literature contains reports describing various elegant formulations that may contain materials which have penetration enhancing
+activity. For example, vesicles are often prepared from phospholipids;
+phospholipids themselves have some penetration enhancing activity
+(see below). Likewise, penetration enhancers have been formulated
+into eutectic systems or into slow or sustained release delivery systems. The focus of this chapter is not the formulations per se, rather
+the penetration enhancing activity of these materials.
+3.1. Water
+One long-standing approach to improve transdermal and topical
+delivery of medicaments is to use water. The water content of
+human stratum corneum is typically around 15–20% of the tissue
+dry weight, although clearly this varies depending on the external environment such as humidity. Soaking the skin in water, exposing the
+membrane to high humidities or, as is more usual under clinical conditions, occluding the tissue so preventing transepidermal water loss
+can allow the stratum corneum to reach water contents in equilibrium with that of the underlying epidermal skin cells. Thus, on occlusion, the water content of this outer membrane can approach 400%
+of the tissue dry weight. Many clinically effective preparations and
+products such as ointments and patches are occlusive, which provides
+one mechanism of enhanced drug delivery; numerous patch formulations deliver drugs at higher than would be expected rates due to
+modification of the stratum corneum water content.
+In general, increased tissue hydration appears to increase transdermal delivery of both hydrophilic and lipophilic permeants. However, Bucks and Maibach cautioned against such a generalisation,
+stating that occlusion does not necessarily increase percutaneous absorption, and that transdermal delivery of hydrophilic compounds
+may not be enhanced by occlusion [3]. Further, they warn that
+A.C. Williams, B.W. Barry / Advanced Drug Delivery Reviews 64 (2012) 128–137 129
+occlusion could cause some local skin irritation with clear implications for the design and manufacture of transdermal and topical
+preparations.
+Considering the heterogeneous nature of human stratum corneum
+it is not surprising that water within this membrane is found in several ‘states’. Typically, from thermal analysis and spectroscopic methodologies, some 25–35% of the water present in stratum corneum can
+be assessed as ‘bound’, i.e. is associated with some structural elements within the tissue [4]. The remaining water within the tissue
+is ‘free’ and is available to act as a solvent within the membrane for
+polar permeants. Human skin also contains a hygroscopic humectant
+mixture of amino acids, amino acid derivatives and salts termed the
+natural moisturising factor (NMF). This material retains water within
+the stratum corneum and helps to maintain tissue pliability. Further,
+the keratin-filled corneocytes containing functional groups such as
+\OH and C\OOH are also expected to bind water molecules within
+the tissue. Considering such disparate potential water binding sites,
+the absorption (and desorption) of water to and from stratum
+corneum is complex. However, it is notable that even maintaining a
+stratum corneum membrane over a strong dessicant such as phosphorous pentoxide, will not remove all the water from the tissue—
+there remains a strongly bound fraction of 5–10% water that cannot
+be removed under such conditions.
+Despite extensive research in the area, the mechanisms of action by
+which water increases transdermal drug delivery are unclear. Clearly
+free water within the tissue could alter the solubility of a permeant in
+the stratum corneum and hence could modify partitioning from the
+permeant vehicle into the membrane. Such a mechanism could partially explain elevated hydrophilic drug fluxes under occlusive conditions
+but would fail to explain hydration-enhanced delivery for lipophilic
+permeants such as steroids. Since the principle barrier to transdermal
+drug delivery resides in the stratum corneum lipids it may be expected
+that high water contents, generated by occlusion or soaking, would
+cause some swelling and hence disruption to these domains possibly
+by swelling the polar head group regions of the bilayers. However, investigations by Bouwstra and co-workers using diffractometry
+methods have shown that water does not cause modification to the
+lipid bilayer packing [5]. Such findings raise the question “Where
+does the water go?”. Clearly the corneocytes take up water and swell.
+One may expect that such swelling of cells would impact upon the
+lipid structure between the corneocytes causing some disruption to
+the bilayer packing. Again the experimental evidence contradicts this
+view. Data from freeze fracture electron microscopy of fully hydrated
+stratum corneum shows that the intercellular lipid bilayers contain
+water pools with vesicle-like structures occasionally found but no
+gross distortion to the lipid domains [6].
+Elias et al. [7] consider the presence of an aqueous pore pathway
+in the stratum corneum, consisting of lacunar domains (sites of
+corneodesmosome degradation) embedded within the lipid bilayers.
+Although scattered and discontinuous under normal physiological
+conditions, they suggest that under high stress conditions (such as
+extensive hydration, iontophoresis or ultrasound) the lacunae expand, interconnect and form a continuous “pore pathway”. The formation of such a route would markedly enhance drug penetration.
+When examining the literature on the effects of water on transdermal permeation difficulties can arise from variable responses
+shown by different species. For example, Bond and Barry showed
+that hairless mouse skin is unsuitable as a model for human stratum
+corneum when examining hydration effects; the rodent skin permeability rose over 50-fold when hydrated for 24 h in contrast to results
+from human skin membranes [8]. Thus literature examining water effects on skin permeability using animal models should be viewed
+with some caution.
+3.2. Sulphoxides and similar chemicals
+Dimethylsulphoxide (DMSO) is one of the earliest and most widely studied penetration enhancers (Fig. 2). It is a powerful aprotic solvent which hydrogen bonds with itself rather than with water; it is
+colourless, odourless and is hygroscopic and is often used in many
+areas of pharmaceutical sciences as a “universal solvent”. DMSO is
+used as a co-solvent in a vehicle for a commercial preparation of
+idoxuridine, used to treat severe herpetic infections of the skin, particularly those caused by herpes simplex. DMSO alone has also been
+applied topically to treat systemic inflammation, although currently
+it is used only to treat animals.
+Fig. 1. Actions of penetration enhancers within the intercellular lipid domain (modified from [2]).
+130 A.C. Williams, B.W. Barry / Advanced Drug Delivery Reviews 64 (2012) 128–137
+A vast array of literature describes the penetration enhancing activities of DMSO, and studies have shown it to be effective in promoting both hydrophilic and lipophilic permeants. Thus, it has been
+shown to promote the permeation of, for example, antiviral agents,
+steroids and antibiotics. DMSO works rapidly as a penetration enhancer—spillage of the material onto the skin can be tasted in the
+mouth within seconds. Although DMSO is an excellent accelerant it
+does create problems. The effects of the enhancer are concentration
+dependent and generally co-solvents containing >60% DMSO are
+needed for optimum enhancement efficacy. However, at these relatively high concentrations DMSO can cause erythema and wheals of
+the stratum corneum and may denature some proteins. Studies
+performed over 40 years ago on healthy volunteers painted with
+90% DMSO twice daily for 3 weeks resulted in erythema, scaling, contact uticaria, stinging and burning sensations and several volunteers
+developed systemic symptoms [9]. A further problem with DMSO
+use as a penetration enhancer is the metabolite dimethylsulphide
+produced from the solvent; dimethylsulphide produces a foul odour
+on the breath. When examining the wealth of literature reporting
+DMSO activity as a penetration enhancer it is essential to consider
+the membrane employed by the investigators since animal membranes and especially those from rodents tend to be considerably
+more fragile than human skin membranes. Thus, the actions of this
+powerful aprotic solvent on animal tissue may be dramatically greater than the effects seen on a human skin membrane.
+Since DMSO is problematic for use as a penetration enhancer, researchers have investigated similar, chemically related materials as accelerants. Dimethylacetamide (DMAC) and dimethylformamide (DMF)
+are similarly powerful aprotic solvents with structures akin to that of
+DMSO. Also in common with DMSO, both solvents have a broad
+range of penetration enhancing activities, for example, promoting the
+flux of hydrocortisone, lidocaine and naloxone through skin membranes. However, Southwell and Barry, showing a 12-fold increase in
+the flux of caffeine permeating across the DMF treated human skin,
+concluded that the enhancer caused irreversible membrane damage
+[10]. Despite the evidence that DMF irreversibly damaged human
+skin membranes, this penetration enhancer has been used in vivo
+and promoted the bioavailability of betamethasone-17-benzoate as
+judged by the vasoconstrictor assay [11,12]. Further structural analogues have been prepared including alkylmethylsulphoxides such as
+decylmethylsulphoxide (DCMS). This analogue has been shown to act
+reversibly on human skin and, like its parent DMSO, also possesses a
+concentration dependent effect. The majority of available literature
+shows that DCMS is a potent enhancer for hydrophilic permeants but
+is less effective at promoting transdermal delivery of lipophilic agents.
+The mechanisms of the sulphoxide penetration enhancers, and
+DMSO in particular, are complex. DMSO is widely used to denature
+proteins and on application to human skin has been shown to change
+the intercellular keratin confirmation, from α helical to a β sheet
+[13,14]. As well as an effect on the proteins, DMSO has also been
+shown to interact with the intercellular lipid domains of human stratum corneum. Considering the small highly polar nature of this molecule it is feasible that DMSO interacts with the head groups of
+some bilayer lipids to distort to the packing geometry. Further,
+DMSO within skin membranes may facilitate drug partitioning from
+a formulation into this “universal solvent” within the tissue.
+3.3. Azone
+Azone (1-dodecylazacycloheptan-2-one or laurocapram) was the
+first molecule specifically designed as a skin penetration enhancer
+(Fig. 3). Chemically it may be considered to be a hybrid of a cyclic
+amide, as with pyrrolidone structures (see Section 3.4 below) with
+an alkylsulphoxide but is missing the aprotic sulphoxide group that
+provides some of the disadvantages listed above for DMSO. Azone is
+a colourless, odourless liquid with a melting point of −7 °C and it
+possesses a smooth, oily but yet non-greasy feel. As would be
+expected from its chemical structure, Azone is a highly lipophilic material with a logPoctanol/water around 6.2 and it is soluble in and is compatible with most organic solvents including alcohols and propylene
+glycol (PG). The chemical has low irritancy, very low toxicity (oral
+LD50 in rat of 9 g/kg) and little pharmacological activity although
+some evidence exists for an antiviral effect. Thus, judging from the
+above, Azone appears to possess many of the desirable qualities listed
+for a penetration enhancer in Section 2.
+Azone enhances the skin transport of a wide variety of drugs including steroids, antibiotics and antiviral agents. The literature
+contains reports describing activity in promoting flux of both hydrophilic and lipophilic permeants. As with many penetration enhancers,
+the efficacy of Azone appears strongly concentration dependent and
+is also influenced by the choice of vehicle from which it is applied.
+Surprisingly, Azone is most effective at low concentrations, being
+employed typically between 0.1% and 5%, often between 1% and 3%.
+Although Azone has been in use for some 25 years, researchers continue to investigate its mechanism of action. Azone probably exerts
+its penetration enhancing effects through interactions with the lipid
+domains of the stratum corneum. Considering the chemical structure
+of the molecule (possessing a large polar head group and lipid alkyl
+chain) it would be expected that the enhancer partitions into the bilayer lipids to disrupt their packing arrangement; integration into the
+lipids is unlikely to be homogeneous considering the variety of compositional and packing domains within stratum corneum lipid bilayers. Thus, Azone molecules may exist dispersed within the barrier
+lipids or in separate domains within the bilayers. A ‘soup spoon’
+model for Azone's confirmation within stratum corneum lipids supports the above mechanisms of action [15] and electron diffraction
+studies using lipids isolated from human stratum corneum provides
+good evidence that Azone exists (or partially exists) as a distinct
+phase within the stratum corneum lipids [16]. Extensive discussion
+concerning the metabolism and fate of Azone and on its use as a penetration enhancer has been reviewed and the molecule is still being
+investigated presently [17–19].
+3.4. Pyrrolidones
+A range of pyrrolidones and structurally related compounds have
+been investigated as potential penetration enhancers in human skin.
+As with Azone and many other penetration enhancers, they apparently
+have greater effects on hydrophilic permeants than for lipophilic materials, although this may be attributable to the greater enhancement potential for the poorer hydrophilic permeants. N-methyl-2-pyrrolidone
+(NMP) and 2-pyrrolidone (2P) are the most widely studied enhancers
+of this group. NMP is a polar aprotic solvent and is used to extract aroFig. 2. Aprotic solvents which act as potent penetration enhancers. matic moieties from oils, olefins and animal feeds. It is a clear liquid at
+A.C. Williams, B.W. Barry / Advanced Drug Delivery Reviews 64 (2012) 128–137 131
+room temperature and is miscible with most common solvents including water and alcohols. Likewise 2P is miscible with most solvents,
+again including water and alcohols, and is a liquid above 25 °C. 2P
+also finds commercial use as a solvent in oil production and is useful
+as a solvent for sugars, iodine and polymers. 2P is an intermediate in
+the manufacture of the widely used pharmaceutical excipients
+polyvinylpyrrolidone.
+Pyrrolidones have been used as permeation promoters for numerous molecules including hydrophilic (e.g. mannitol, 5-fluorouracil
+and sulphaguanidine) and lipophilic (betamethasone-17-benzoate,
+hydrocortisone and progesterone) permeants. As with many studies,
+higher flux enhancements have been reported for the hydrophilic
+molecules. Recently NMP was employed with limited success as a
+penetration enhancer for captopril when formulated into a matrix
+type transdermal patch [20].
+In terms of mechanisms of action, the pyrrolidones partition well
+into human corneum stratum. Within the tissue they may act by altering the solvent nature of the membrane and pyrrolidones have been
+used to generate ‘reservoirs’ within skin membranes. Such a reservoir
+effect offers potential for sustained release of a permeant from the stratum corneum over extended time periods. However, as with several
+other penetration enhancers, clinical use of pyrrolidones is precluded
+due to adverse reactions. An in vivo vasoconstrictor bioavailability
+study demonstrated that pyrrolidones caused erythema in some volunteers, although this effect was relatively short lived. Also, a toxic hygroscopic contact reaction to N-methyl-2-pyrrolidone has recently been
+reported [21].
+3.5. Fatty acids
+Percutaneous drug absorption has been increased by a wide variety of long chain fatty acids, the most popular of which is oleic acid.
+It is of interest to note that many penetration enhancers such as
+Azone contain saturated or unsaturated hydrocarbon chains and
+some structure activity relationships have been drawn from the extensive studies of Aungst who employed a range of fatty acids and
+alcohols, sulphoxides, surfactants and amides as enhancers for naloxone [22,23]. From these extensive experiments, it appears that saturated alkyl chain lengths of around C10–C12 attached to a polar head
+group yields a potent enhancer. In contrast, for penetration enhancers
+containing unsaturated alkyl chains, then C18 appears near optimum.
+For such unsaturated compounds, the bent cis configuration is
+expected to disturb intercellular lipid packing more so than the
+trans arrangement, which differs little from the saturated analogue
+(Fig. 4).
+Again from extensive literature reports fatty acids have been used
+to improve transdermal delivery of, amongst others, estradiol, progesterone, acyclovir, 5-fluorouracil and salicylic acid, indicating that
+these enhancers can be used to promote delivery of both lipophilic
+and hydrophilic permeants. Lauric acid in PG enhanced the delivery
+of highly lipophilic antiestrogens [24]. Fatty acid effects on drug delivery to and through human skin can vary. For example, Santoyo and
+Ygartua, employed the mono-unsaturated oleic acid, polyunsaturated, linoleic and linolenic acids and the saturated lauric acid enhancers
+for promoting piroxicam flux [25]. Pre-treating the tissue with the
+fatty acids increased the amount of piroxicam retained within the
+skin and also decreased the lag time to pseudo steady state flux.
+Oleic acid has been shown to be effective for many drugs, for example
+increasing the flux of salicylic acid 28-fold and 5-flourouracil flux
+56-fold through human skin membrane in vitro [26]. As with Azone,
+oleic acid is effected at relatively low concentrations (typically less
+than 10%) and can work synergistically when delivered from vehicles
+such as PG or ternary systems with dimethyl isosorbide [27]. Various
+analogues of fatty acids have been researched as penetration enhancers, for example diesters increased the permeation of nonsteroidal anti-inflammatory drugs through rat skin [28].
+Considerable efforts have been directed at investigating the mechanisms of action of oleic acid as a penetration enhancer in human
+skin. It is clear from numerous literature reports that the enhancer interacts with and modifies the lipid domains of the stratum corneum,
+as would be expected for a long chain fatty acid with a cis configuration (Fig. 4). Spectroscopic investigations using deuterated oleic acid
+in human stratum corneum indicates that oleic acid at higher concentration can also exist as a separate phase (or as ‘pools’) within the bilayer lipids [29]. More recently, electron microscopic studies have
+shown that a discreet lipid domain is induced within stratum
+corneum bilayer lipids on exposure to oleic acid [30]. The formation
+of such pools would provide permeability defects within the bilayer
+lipids thus facilitating permeation of hydrophilic permeants through
+the membrane.
+3.6. Alcohols, fatty alcohols and glycols
+Ethanol is commonly used in many transdermal formulations and
+is often the solvent of choice for use in patches. It is also commonly
+employed as a co-solvent with water for ensuring sink conditions
+during in vitro permeation experiments. As with water, ethanol permeates rapidly through human skin with a steady state flux of approximately 1 mg cm2
+/h [31].
+Ethanol has been used to enhance the flux of levonorgestrel, estradiol, hydro-cortisone and 5-fluorouracil through rat skin [32] and of
+estradiol through human skin in vivo [33]. However, when using an
+ethanol water co-solvent vehicle, the enhancement effect of ethanol
+appears to be concentration dependent. Salicylate ion diffusion across
+human epidermal membranes was promoted up to an ethanol:water
+composition of 0.63 whereas higher levels of the alcohol decreased
+permeation [34]. Similar results have been reported for nitroglycerine
+[31] and estradiol [35] and zidovudine [36]. It is probable that at
+higher ethanol levels dehydration of the biological membrane reduced permeation across the tissue.
+Ethanol can exert its permeation enhancing activity through various mechanisms. Firstly, as a solvent, it can increase the solubility of
+the drug in the vehicle—although at steady state the flux of a
+permeant from any saturated, non-enhancing, vehicle should be
+equivalent. However, for poorly soluble permeants that are prone to
+depletion within the donor during a steady state permeation study,
+then ethanol can increase permeant solubility in the donor phase
+[33]. Further, permeation of ethanol into the stratum corneum can
+alter the solubility properties of the tissue with a consequent
+improvement for drug partitioning into the membrane [35]. Additionally, it is also feasible that the rapid permeation of ethanol, or
+evaporative loss of this volatile solvent, from the donor phase modifies the thermodynamic activity of the drug within the formulation.
+Such an effect is most apparent when applying a finite dose of a formulation onto the skin surface before evaporation of the alcohol; as
+ethanol is lost, drug concentration can increase beyond saturated
+Fig. 3. Azone, the first molecule to be synthesised so as to act as a skin penetration
+enhancer.
+132 A.C. Williams, B.W. Barry / Advanced Drug Delivery Reviews 64 (2012) 128–137
+solubility providing a supersaturated state with a greater driving
+force for permeation. Such a mechanism may operate for transdermal
+delivery from patches where ethanol, typically included to solubilise
+the drug or to apply the adhesive, may traverse the stratum corneum
+rapidly leaving behind a metastable supersaturated permeant which
+is inhibited from crystallising by polymers that are typically incorporated into patches. A further potential mechanism of action arising as
+a consequence of rapid ethanol permeation across the skin has been
+reported; solvent ‘drag’ may carry permeant into the tissue as ethanol
+traverses, although such a mechanism has been discounted for
+morphine hydrochloride permeation from ethanol and methanol
+containing formulations [37]. In addition, ethanol as a volatile solvent
+may extract some of the lipid fraction from within the stratum
+corneum when used at high concentration for prolonged times;
+though not a ‘enhancing’ effect, such a mechanism would clearly improve drug flux through skin.
+Fatty alcohols (or alkanols) may also have penetration enhancing
+activity. These molecules are typically applied to the skin in a
+co-solvent—often PG—at concentrations between 1% and 10%. As
+with fatty acids described above (Section 3.5), some structure/activity
+relationships for fatty alcohol penetration enhancement have been
+drawn with lower activities reported for branched alkanols whereas
+1-butanol was shown to be the most effective enhancer for
+levonorgesterol traversing rat skin [32]. Other workers have shown
+1-octanol and 1-propranolol to be effective enhancers for salicylic
+acid and nicotinamide in hairless mouse skin. More recent structure
+activity relationships have been drawn for fatty alcohols using melatonin permeating through porcine and human skin in vitro [38]; comparing activities for saturated fatty alcohols from octanol to myristyl
+alcohol, a parabolic relationship was found with a maximum enhancement effect given by decanol. Enhancement activity also
+showed a general increase when adding up to two unsaturated
+bonds into the alcohols, but activity fell when three double bonds
+were introduced.
+PG is widely used as a vehicle for penetration enhancers and
+shows synergistic action when used with, for example, oleic acid
+(see Section 3.5). However, PG has also been used as a penetration
+enhancer in its own right. Literature reports concerning the efficacy
+of PG as a permeation enhancer are mixed; evidence suggests at
+best only a very mild enhancement effect for molecules such as estradiol and 5-fluorouracil. As with ethanol, PG permeates well through
+human stratum corneum and its mechanisms of action are probably
+similar to those suggested above for ethanol. Permeation of the solvent through the tissue could alter thermodynamic activity of the
+drug in the vehicle which would in turn modify the driving force for
+diffusion, solvent may partition into the tissue facilitating uptake of
+the drug into skin and there may be some minor disturbance to
+intercellular lipid packing within the stratum corneum bilayers.
+3.7. Surfactants
+As with some of the materials described previously (for example
+ethanol and PG) surfactants are found in many existing therapeutic,
+cosmetic and agro-chemical preparations. Usually, surfactants are
+added to formulations in order to solubilise lipophilic active ingredients, and so they have potential to solubilise lipids within the stratum
+corneum. Typically composed of a lipophilic alkyl or aryl fatty chain,
+together with a hydrophilic head group, surfactants are often described in terms of the nature of the hydrophilic moiety. Anionic surfactants include sodium lauryl sulphate (SLS), cationic surfactants
+include cetyltrimethyl ammonium bromide, the nonoxynol surfactants are non-ionic surfactants and zwitterionic surfactants include
+dodecyl betaine. Anionic and cationic surfactants have potential to
+damage human skin; SLS is a powerful irritant and increased the
+trans epidemeral water loss in human volunteers in vivo [39] and
+both anionic and cationic surfactants swell the stratum corneum
+and interact with intercellular keratin. Non-ionic surfactants tend to
+be widely regarded as safe. Surfactants generally have low chronic
+toxicity and most have been shown to enhance the flux of materials
+permeating through biological membranes.
+Most studies evaluating enhancement activity have focussed on
+the use of anionic and non-ionic surfactants. Anionic materials themselves tend to permeate relatively poorly through human stratum
+corneum upon short time period exposure (for example when mimicking occupation exposure) but permeation increases with application time. Relatively few studies exist assessing non-ionic surfactant
+permeation through human skin but Watkinson et al. showed that
+around 0.5% of the applied dose of nonoxynol surfactant materials
+traversed human skin after 48 h exposure in vitro [40]. Surfactant facilitated permeation of many materials through skin membranes has
+been researched, with reports of significant enhancement of materials such as chloramphenicol through hairless mouse skin by SLS,
+and acceleration of hydrocortisone and lidocaine permeating across
+hairless mouse skin by the non-ionic surfactant Tween 80 [41,42].
+However, as with several of the enhancers described above, the
+choice of model membrane can dramatically affect the scale of permeation enhancement. Tween 80 did not enhance nicardipine or ketorolac
+permeation in monkeys in vivo [43]. Likewise, 5-flourouracil permeation through human and snake skin in-vitro was not improved by
+0.1% Tween 20 in normal saline [26,44], whereas the same enhancer
+formulation improved 5-flourouracil permeation across hairless
+mouse skin 6-fold [44]. From the literature it is apparent that, in general terms, non-ionic surfactants have only a minor enhancement effect
+in human skin whereas anionic surfactants can have a more pronounced effect.
+3.8. Urea
+Urea is a hydrating agent (a hydrotrope) used in the treatment of
+scaling conditions such as psoriasis, ichthyosis and other hyperkeratotic skin conditions. Applied in a water in oil vehicle, urea
+alone or in combination with ammonium lactate produced significant
+stratum cornum hydration and improved barrier function when
+Fig. 4. Fatty acids, illustrating the different space-filling properties of saturated and
+trans/cis unsaturated hydrocarbon tails.
+A.C. Williams, B.W. Barry / Advanced Drug Delivery Reviews 64 (2012) 128–137 133
+compared to the vehicle alone in human volunteers in vivo [45]. Urea
+also has keratolytic properties, usually when used in combination
+with salicylic acid for keratolysis. The somewhat modest penetration
+enhancing activity of urea probably results from a combination of
+increasing stratum cornum water content (water is a valuable penetration enhancer, see Section 3.1) and through the keratolytic activity.
+As urea itself possesses only marginal penetration enhancing
+activity, attempts have been made to synthesis analogues containing
+more potent enhancing moieties. Thus Wong and co-workers
+synthesised cyclic urea analogues and found them to be as potent as
+Azone for promoting indomethacin across shed snake skin and hairless mouse skin [46]. A series of alkyl and aryl urea analogies were
+moderately effective as enhancers for 5-flourouracil when applied in
+PG to human skin in vitro, though urea itself was ineffective [47].
+3.9. Essential oils, terpenes and terpenoids
+Terpenes are found in essential oils, and are compounds comprising only carbon, hydrogen and oxygen atoms, yet which are not
+aromatic. Numerous terpenes have long been used as medicines,
+flavourings and fragrance agents. For examples, menthol is traditionally used in inhalation pharmaceuticals and has a mild antipruritic effect when incorporated into emollient preparations. It is also used as
+a fragrance and to flavour toothpastes, peppermint sweets and
+menthylated cigarettes.
+The essential oils of eucalyptus, chenopodium and ylang ylang
+were effective penetration enhancers for 5-flouorouracil traversing
+in human skin in vivo [48]. The most potent of these essential oils, eucalyptus, increased the permeability coefficient of the drug 34-fold.
+The principal terpene element within eucalyptus oil is 1,8-cineole
+and this molecule was one of a series of 17 monoterpenes and
+terpenoids evaluated as enhancers for the model hydrophilic drug
+5-flourouracil in human skin in vitro [49]—see Fig. 5. Some structure
+activity relationships were apparent from the data in that hydrocarbon terpenes were less potent enhancers for this hydrophilic drug
+than were alcohol or ketone containing terpenes, and the greatest enhancement activity was shown by the oxide terpenes and terpenoids.
+Within this oxide subclass, some potency variation was also apparent
+with ring-bridged oxides (cyclic ethers) being more potent than
+1,2-oxygen linked (epoxide) molecules; pre-treatment of human epidermal membranes with 1,8-cineole provided a near 100-fold increase in the permeability coefficient of the model drug. However,
+such tentative structure activity relationships appear to be drug specific. The same terpenes were employed in an identical protocol for
+the lipophilic drug estradiol [50]. The results show that, unlike for
+5-flourouracil where alcohol and ketone terpenes have moderate enhancement activities (10–40 fold increases in permeability coefficient), these same agents had no accelerent activity towards the
+lipophilic model drug and indeed appeared to retard its permeation.
+The cyclic ethers, so potent for 5-fluorouracil, provided only moderate enhancements for estradiol permeation and, in contrast to the hydrophilic drug, hydrocarbon terpenes (such as D-limonene) were
+generally the most effective terpene enhancers for the steroid. Similar
+results were reported for the permeation of another lipophilic
+molecule, indomethacin, traversing rat skin; hydrocarbon terpenes,
+especially limonene, were as effective as Azone in promoting drug
+flux and oxygen containing terpenes (carvone, 1,8-cineole) were ineffective [51,52]. Other hydrophilic drugs such as propanolol and diazepam are also enhanced by terpenes that contained no polar
+groups. As with many enhancers described above, a synergistic effect
+for terpene efficacy has also been shown when PG is used as the vehicle [53]; with this co-solvent, enhancer efficacies for carveol, carvone,
+pulegone and 1,-8 cineole rose approximately 4-fold, explained by
+improved partitioning of the enhancer into the stratum corneum. Cyclic monoterpenes generally showed stronger enhancement of
+curcumin than other terpenes, flavanoids and cholestanol [54].
+Beyond the relatively small monoterpenes described above, larger
+terpene molecules (sesquiterpenes) have also been evaluated as enhancers for molecules permeating human skin membranes. Thus, materials such as nerolidol (Fig. 5) were shown to enhance 5-flourouracil
+permeability over 20-fold through human skin in vitro [55]. As larger
+more lipophilic enhancers, these agents exerted their effects over
+prolonged periods—for up to 5 days—in contrast to the monoterpenes
+that tended to wash out relatively easily from the stratum corneum.
+Moderate enhancement activity has also been reported for the cosmetically valuable terpene α-bisabolol [56].
+Terpenes continue to be a popular choice of enhancer for delivering
+materials across skin membranes. For example, L-menthol has been
+used to facilitate in vitro permeation of morphine hydrochloride
+through hairless rat skin [37] imipramine hydrochloride across rat
+skin [57] and hydrocortisone through hairless mouse skin [58]. Recently, niaouli oil was the effective of six essential oils in promoting estradiol
+penetration through hairless mouse skin [59]. It is interesting that there
+is currently little control on the topical use of most terpenes, and many
+‘aromatherapy’ oils and formulations contain appreciable quantities of
+these enhancers. Their excessive use offers potential for permeation of
+hazardous compounds from the same formulations into the skin;
+some terpenes also have pharmacological activity.
+From the above it is apparent that the smaller terpenes tend to be
+more active permeation enhancers than the larger sequiterpenes.
+Further, it also appears that hydrocarbon or the ‘non-polar group
+containing’ terpenes, such as limonene provide better enhancement
+for lipophilic permeants than do the ‘polar’ terpenes. Conversely, the
+polar group containing terpenes (such as menthol, 1,8-cineole) provide
+better enhancement for hydrophilic permeants. Such as relationship
+tends to imply that one mechanism by which this agents operate is to
+modify the solvent nature of the stratum corneum, improving drug
+partitioning into the tissue. Many terpenes permeate human skin well
+[55], and large amounts of terpenes (up to 1.5 μg/cm2
+) were found in
+the epidermis after application from a matrix type patch [60]. With
+loss of terpenes, which are generally good solvents, from a formulation
+there could be an alteration to the thermodynamic activity of the
+permeant in the formulation as was described for ethanol. Terpenes
+may also modify drug diffusivity through the membrane. During steady
+state permeation experiments using terpenes as penetration enhancers,
+the lag time for permeation is usually reduced, indicating some increase
+in diffusivity of the drug through the membrane following terpene
+treatment. Small angle X-ray diffraction studies have also indicated
+that D-limonene and 1,8-cineole disrupt stratum corneum bilayer lipids,
+whereas nerolidol, a long chain sesquiterpene, reinforces the bilayers,
+possibly by orientating alongside the stratum corneum lipids [61]. Spectroscopic evidence has also suggested that, as with Azone and oleic acid,
+terpenes could exist within separate domains in stratum corneum
+lipids.
+3.10. Phospholipids
+Many studies have employed phospholipids as vesicles (liposomes) to carry drugs into and through human skin. However, a
+few studies have used phospholipids in a non-vesicular form as penetration enhancers. For example, theophylline was enhanced through
+hairless mouse skin by 1% phosphatidylcholine in PG, a concentration
+at which liposomes would not form [62]. Similarly, indomethacin flux
+was enhanced through rat skin by the same phospholipid and hydrogenated soy bean phospholipids have been reported to enhance
+diclofenac permeation through rat skin in vivo.
+There is no compelling evidence to suggest that phospholipids interact directly with stratum corneum packing, though this may be
+expected when considering their physico-chemical properties and
+structures. However, phospholipids can occlude the skin surface and
+thus can increase tissue hydration, which, as shown above, can increase drug permeation. When applied to the stratum corneum as
+134 A.C. Williams, B.W. Barry / Advanced Drug Delivery Reviews 64 (2012) 128–137
+vesicles, phospholipids can fuse with stratum corneum lipids. This
+collapse of structure liberates permeant into the vehicle in which
+the drug may be poorly soluble and hence thermodynamic activity
+could be raised so facilitating drug delivery.
+3.11. Solvents at high concentrations
+In addition to the activities of penetration enhancers within the
+intercellular domain, high levels of potent solvents may have more
+drastic effects (Fig. 6). They may damage desmosomes and proteinlike bridges, leading to fissuring of the intercellular lipid and splitting
+of the stratum corneum squames. Solvent may enter the corneocyte,
+drastically disrupting the keratin and even forming vacuoles [2]. Such
+dramatic effects would be even less acceptable to regulatory agencies
+(and patients!) than lesser insults to the intercellular lipid.
+3.12. Metabolic interventions
+A more interventionist approach to penetration enhancement is
+proposed by Elias et al. (see [7] for an up-to-date summary). Strategies that interfere with any or all of the processes of synthesis, assembly, secretion, activation, processing, or assembling/disassembling of
+the extracellular lamellar membranes, could promote permeation as
+barrier homeostasis is altered. As the authors admit, such an approach
+would pose significant regulatory problems, not least of which would
+be issues related to increased xenobiotic or microbial access. The concept of interfering with barrier homeostasis on a relatively long time
+scale poses a myriad of clinical considerations.
+4. General comments on penetration enhancers
+The above list of materials that have been used as penetration enhancers is clearly not exhaustive but is intended to illustrate the
+range of agents that have been employed for facilitating transdermal
+drug delivery. Several common themes emerge from the above.
+a) It is difficult to select rationally a penetration enhancer for a given
+permeant. Penetration enhancer potencies appear to be drug specific, or at best may be predictive for a series of permeants with
+similar physico-chemical properties (such as similar partition coefficients, molecular weights and solubilities). Some broad generic
+trends are apparent, such as the use of hydrocarbon monoterpenes for lipophilic permeants, but the level of enhancement
+expected for these agents is unpredictable.
+b) Penetration enhancements through animal skins, and rodent skins
+in particular, are generally considerably greater than those obtained
+with human skin.
+c) Penetration enhancers tend to work well with co-solvents such as
+PG or ethanol. Synergistic effects are found between enhancers
+such as Azone, oleic acid (and other fatty acids) and terpenes with
+PG.
+d) Most penetration enhancers have a complex concentration dependent effect. This is shown clearly by Azone which is effective in promoting the transdermal flux for many drugs when used at 1% in PG
+but which is far less effective when applied at higher concentrations
+or neat (also relates to the use of co-solvents as above).
+Fig. 5. Example terpenes that promote skin penetration of a variety of drugs.
+Fig. 6. Dramatic action of enhancers (particularly solvents) on the integrity of stratum corneum adhesion (modified from [2]).
+A.C. Williams, B.W. Barry / Advanced Drug Delivery Reviews 64 (2012) 128–137 135
+e) Potential mechanisms of action of enhancers are varied, and can
+range from direct effects on the skin to modification of the formulation. Thus, directly acting on the skin, enhancers can:
+i. Act on the stratum corneum intracellular keratin, denature it or
+modify its conformation causing swelling and increased hydration.
+ii. Affect the desmosomes that maintain cohesion between
+corneocytes.
+iii. Modify the intercellular lipid domains to reduce the barrier
+resistance of the bilayer lipids. Disruption to the lipid bilayers
+could be homogeneous where the enhancer distributes evenly within the complex bilayer lipids but more likely the accelerant will be heterogeneously concentrated within domains
+of the bilayer lipids. Such ‘pooling’ phenomenen has been
+shown for oleic acid and Azone, and is likely to occur for
+most enhancers considering the range of packing and different molecular domains in the stratum corneum lipids.
+iv. Alter the solvent nature of the stratum corneum to modify
+partitioning of the drug or of a co-solvent into the tissue
+most enhancers are good solvents and so, for example, the
+pyrrolidones can increase the amount of permeant present
+within the skin.
+The above mechanisms of action have been embraced within
+a general scheme to explain enhancer effects on stratum
+corneum, termed the lipid–protein-partititioning theory; enhancers can act by altering skin lipids and/or proteins and/or
+by affecting partitioning behaviour [63]. In addition, penetration enhancement can be indirect by;
+i. Modification of thermodynamic activity of the vehicle. Rapid
+permeation of a good solvent from the donor solution, such
+as ethanol, can leave the permeant in a more thermodynamically active state than when the solvent was present—even
+to the point of supersaturation.
+ii. It has been suggested that solvent permeating through the
+membrane could ‘drag’ the permeant with it, though this
+concept is somewhat controversial and remains to be proven.
+iii. Solubilising the permeant in the donor (e.g. with surfactants), especially where solubility is very low as with steroids in aqueous donor solutions, can reduce depletion
+effects and prolong drug permeation.
+f) Many of the chemicals described above are used for alternative
+reasons within topical and transdermal preparations. For example,
+a topical prepartion could contain PG as a vehicle, a surfactant to
+solubilise the drug and a terpene as a fragrance material. The efficacy of some topical preparations is probably due to penetration
+enhancement by these types of agents, though no commercial
+preparations yet claim to incorporate an agent used specifically
+for this purpose.
+References
+[1] B.W. Barry, Dermatological Formulations: Percutaneous Absorption, Marcel Dekker,
+New York, 1983.
+[2] G.K. Menon, S.H. Lee, Ultrastructural effects of some solvents and vehicles on the
+stratum corneum and other skin components: evidence for an “extended
+mosaic-partitioning model of the skin barrier”, in: M.S. Roberts, K.A. Walters
+(Eds.), Dermal Absorption and Toxicity Assessment, Marcel Dekker, New York,
+1998, Chapter 29.
+[3] D. Bucks, H.I. Maibach, Occlusion does not uniformly enhance penetration
+in vivo, in: R.L. Bronaugh, H.I. Maibach (Eds.), Percutaneous Absorption;
+Drugs—Cosmetics—Mechanisms—Methodology, 3rd ed., Marcel Dekker, New York,
+1999, Chapter 4.
+[4] K. Walkley, Bound water in stratum corneum measured by differential scanning
+calorimetry, J. Invest. Dermatol. 59 (1972) 225–227.
+[5] P.A. Cornwell, B.W. Barry, Sesquiterpene components of volatile oils as skin penetration enhancers for the hydrophilic permeant 5-fluorouracil, J. Pharm.
+Pharmacol. 46 (1994) 261–269.
+[6] D.A. Van Hal, E. Jeremiasse, H.E. Junginger, F. Spies, J.A. Bouwstra, Structure of
+fully hydrated human stratum corneum: a freeze fracture electron microscopy
+study, J. Invest. Dermatol. 106 (1996) 89–95.
+[7] P.M. Elias, J. Tsai, G.K. Menon, W.M. Holleran, K.R. Feingold, The potential of metabolic interventions to enhance transdermal drug delivery, JID Symp. Proc. 7
+(2002) 79–85.
+[8] J.R. Bond, B.W. Barry, Limitations of hairless mouse skin as a model for in vitro
+permeation studies through human skin: hydration damage, J. Invest. Dermatol.
+90 (1986) 486–489.
+[9] A.M. Kligman, Topical pharmacology and toxicology of dimethylsulfoxide, J. Am.
+Med. Assoc. 193 (1965) 796.
+[10] D. Southwell, B.W. Barry, Penetration enhancers for human skin: mode of action
+of 2-pyrrolidone and dimethylformamide on partition and diffusion of model
+compounds water, n-alcohols and caffeine, J. Invest. Dermatol. 80 (1983)
+507–515.
+[11] B.W. Barry, D. Southwell, R. Woodford, Optimisation of bioavailability of topical
+steroids: penetration enhancers under occlusion, J. Invest. Dermatol. 82 (1984)
+49–52.
+[12] S.L. Bennett, B.W. Barry, R. Woodford, Optimisation of bioavailability of topical
+steroids: non-occluded penetration enhancers under thermodynamic control,
+J. Pharm. Pharmacol. 37 (1984) 298–304.
+[13] R.P. Oertel, Protein conformational changes induced in human stratum corneum
+by organic sulphoxides: an infrared spectroscopic investigation, Biopolymer 16
+(1997) 2329–2345.
+[14] A.N.C. Anigbogu, A.C.Williams, B.W. Barry, H.G.M. Edwards, Fourier transform Raman
+spectroscopy of interactions between the penetration enhancer dimethylsulphoxide
+and human stratum corneum, Int. J. Pharm. 125 (1995) 265–282.
+[15] A.J. Hoogstraate, J. Verhoef, J. Brussee, A.P. Ijzerman, F. Spies, H.E. Bodde, Kinetics,
+ultrastructural aspects and molecular modelling of transdermal peptide flux enhancement by N-alkylazacycloheptanones, Int. J. Pharm. 76 (1991) 37–47.
+[16] G.S.K. Pilgram, J. van der Meulen, G.S. Gooris, H.K. Koerten, J.A. Bouwstra, The influence of two azones and sebaceous lipids on the lateral organization of lipids
+isolated from human stratum corneum, Biochim. Biophys. Acta—Biomembr.
+1511 (2001) 244–254.
+[17] J.W. Wiechers, Absorption, distribution, metabolism, and exretion of the cutaneous penetration enhancer Azone, Ph.D. thesis, University of Groningen, 1989.
+[18] J.W. Wiechers, R.A. de Zeeuw, Transdermal drug delivery: efficacy and potential applications of the penetration enhancer Azone, Drug Des. Deliv. 6 (1990) 87–100.
+[19] M.I. Afouna, T.K. Fincher, A.A.A. Zaghloul, I.K. Reddy, Effect of Azone upon the in vivo
+antiviral efficacy of cidofovir or acyclovir topical formulations in treatment/prevention
+of cutaneous HSV-1 infections and its correlation with skin target site free drug concentration in hairless mice, Int. J. Pharm. 253 (2003) 159–168.
+[20] E.S. Park, S.J. Chang, Y.S. Rhee, S.C. Chi, Effects of adhesives and permeation enhancers on the skin permeation of captopril, Drug Dev. Ind. Pharm. 27 (2001)
+975–980.
+[21] F.H.W. Jungbauer, P.J. Coenraads, S.H. Kardaun, Toxic hygroscopic contact reaction to N-methyl-2-pyrrolidone, Contact Dermatitis 45 (2001) 303–304.
+[22] B.J. Aungst, N.J. Rogers, E. Shefter, Enhancement of naloxone penetration through
+human skin in vitro using fatty acids, fatty alcohols, surfactants, sulfoxides and
+amides, Int. J. Pharm. 33 (1986) 225–234.
+[23] B.J. Aungst, Structure-effects studies of fatty acid isomers as skin penetration enhancers and skin irritants, Pharm. Res. 6 (1989) 244–247.
+[24] A.P. Funke, R. Schiller, H.W. Motzkus, C. Günther, R.H. Müller, R. Lipp, Transdermal delivery of highly lipophilic drugs: in vitro fluxes of antiestrogens,
+permeation enhancers, and solvents from liquid formulations, Pharm. Res. 19
+(2002) 661–668.
+[25] S. Santoyo, P. Ygartua, Effect of skin pre-treatment with fatty acids on percutaneous
+absorption and skin retention of piroxicam after its topical application, Eur. J. Pharm.
+Biopharm. 50 (2000) 245–250.
+[26] M. Goodman, B.W. Barry, Lipid–protein-partitioning theory (LPP) theory of skin
+enhancer activity: finite dose technique, Int. J. Pharm. 57 (1989) 29–40.
+[27] R. Aboofazeli, H. Zia, T.E. Needham, Transdermal delivery of nicardipine: an approach to in vitro permeation enhancement, Drug Deliv. 9 (2002) 239–247.
+[28] K. Takahashi, H. Sakano, N. Numata, S. Kuroda, N. Mizuno, Effect of fatty acid diesters on permeation of anti-inflammatory drugs through rat skin, Drug Dev.
+Ind. Pharm. 28 (2002) 1285–1294.
+[29] B. Ongpipattanakul, R.R. Burnette, R.O. Potts, M.L. Francoeur, Evidence that oleic
+acid exists in a separate phase within stratum corneum lipids, Pharm. Res. 7
+(1991) 350–354.
+[30] H. Tanojo, A. BosvanGeest, J.A. Bouwstra, H.E. Junginger, H.E. Bodde, In vitro
+human skin barrier perturbation by oleic acid: thermal analysis and freeze fracture electron microscopy studies, Thermochim. Acta 293 (1997) 77–85.
+[31] B. Berner, G.C. Mazzenga, J.H. Otte, R.J. Steffens, R.-H. Juang, C.D. Ebert, Ethanol:
+water mutually enhanced transdermal therapeutic system: II. Skin permeation
+of ethanol and nitroglycerin, J. Pharm. Sci. 78 (1989) 402–407.
+[32] D. Friend, P. Catz, J. Heller, J. Reid, R. Baker, Transdermal delivery of levonorgestrel
+I. Alkanols as permeation enhancers, J. Control. Release 7 (1988) 243–250.
+[33] L.K. Pershing, L.D. Lambert, K. Knutson, Mechanism of ethanol-enhanced estradiol
+permeation across human skin in vivo, Pharm. Res. 7 (1990) 170–175.
+[34] T. Kurihara-Bergstrom, K. Knutson, L.J. De Noble, C.Y. Goates, Percutaneous absorption enhancement of an ionic molecule by ethanol–water systems in
+human skin, Pharm. Res. 7 (1990) 762–766.
+[35] N.A. Megrab, A.C. Williams, B.W. Barry, Oestradiol permeation across human skin,
+silastic and snake skin membranes: the effects of ethanol/water co-solvent systems, Int. J. Pharm. 116 (1995) 101–112.
+[36] N.S. Thomas, R. Panchagnula, Transdermal delivery of zidovudine: effect of vehicles on permeation across rat skin and their mechanism of action, Pharm. Sci. 18
+(2003) 71–79.
+136 A.C. Williams, B.W. Barry / Advanced Drug Delivery Reviews 64 (2012) 128–137
+[37] H. Morimoto, Y. Wada, T. Seki, K. Sugibayashi, In vitro skin permeation of morphine hydrochloride during the finite application of penetration-enhancing system containing water, ethanol and L-menthol, Biol. Pharm. Bull. 25 (2002)
+134–136.
+[38] S. Andega, N. Kanikkannan, M. Singh, Comparison of the effect of fatty alcohols on
+the permeation of melatonin between porcine and human skin, J. Control. Release
+77 (2001) 17–25.
+[39] R.A. Tupker, J. Pinnagoda, J.P. Nater, The transient and cumulative effect of sodium
+lauryl sulphate on the epidermal barrier assessed by transepidermal water loss:
+inter-individual variation, Acta Derm. Venereol. (Stockh.) 70 (1990) 1–5.
+[40] A.C. Watkinson, D.M. Green, K.R. Brain, V.J. James, K.A. Waters, S. Azri-Meehan, R.
+Sharma, W. Dressler, Skin penetration of a series of nonoxynol homologues, in:
+K.R. Brain, V.J. James, K.S. Waters (Eds.), Perspectives in Percutaneous Penetration, vol. 5b, STS Publishing, Cardiff, 1998, pp. 54–59.
+[41] P.P. Sarpotdar, J.L. Zatz, Percutaneous absorption enhancement by non-ionic surfactants, Drug Dev. Ind. Pharm. 12 (1986) 1625–1647.
+[42] P.P. Sarpotdar, J.L. Zatz, Evaluation of penetration enhancement of lidocaine by
+non-ionic surfactants through hairless mouse skin in vitro, J. Pharm. Sci. 75
+(1986) 176.
+[43] D. Yu, L.M. Sanders, G.W. Davidson, M.J. Marvin, T. Ling, Percutaneous absorption
+of nicardipine and ketorolac in rhesus monkeys, Pharm. Res. 5 (1988) 457.
+[44] P.C. Rigg, B.W. Barry, Shed snake skin and hairless mouse skin as model membranes for human skin during permeation studies, J. Invest. Dermatol. 94
+(1990) 235–240.
+[45] M. Gloor, J. Fluhr, B. Wasik, W. Gehring, Clinical effect of salicylic acid and high
+dose urea applied in standardized NRF formulations, Pharmazie 56 (2001)
+810–814.
+[46] O. Wong, N. Tsuzuki, B. Nghiem, J. Kuehnhoff, T. Itoh, K. Masaki, J. Huntingdon,
+R. Konishi, J.H. Rytting, T. Higuchi, Unsaturated cyclic ureas as new non-toxic
+biodegradable transdermal penetration enhancers: II. Evaluation study, Int. J.
+Pharm. 52 (1989) 191–192.
+[47] A.C. Williams, B.W. Barry, Urea analogues in propylene glycol as penetration
+enhancers in human skin, Int. J. Pharm. 56 (1989) 43–50.
+[48] A.C. Williams, B.W. Barry, Essential oils as novel human skin penetration enhancers, Int. J. Pharm. 57 (1989) R7–R9.
+[49] A.C. Williams, B.W. Barry, Terpenes and the lipid–protein-partititioning theory of
+skin penetration enhancers, Pharm. Res. 8 (1991) 17–24.
+[50] A.C. Williams, B.W. Barry, The enhancement index concept applied to terpene
+penetration enhancers for human skin and model lipophilic (oestradiol) and hydrophilic (5-fluorouracil) drugs, Int. J. Pharm. 74 (1991) 157–168.
+[51] T. Nagai, H. Okabe, A. Ogura, K. Takayama, Effect of limonene and related compounds on the percutaneous absorption of indomethacin, in: Proceedings of the
+16th International Symposium on Controlled Release Bioactive Material, Chicago,
+USA, 1989, pp. 181–182.
+[52] H. Okabe, K. Takayama, A. Ogura, T. Nagai, Effect of limonene and related compounds on the percutaneous absorption of indomethacin, Drug Des. Deliv. 4
+(1989) 313–321.
+[53] B.W. Barry, A.C. Williams, Human skin penetration enhancement: the synergy of
+propylene glycol with terpenes, in: Proceedings of the 16th International Symposium on Controlled Release Bioactive Material, Chicago, USA, 1989, pp. 33–34.
+[54] J.-Y. Fang, C.-F. Hung, H.-C. Chiu, J.-J. Wang, T.-F. Chan, Efficacy and irritancy of enhancers on the in vitro and in vivo percutaneous absorption of curcumin, J. Pharm.
+Pharmacol. 55 (2003) 593–601.
+[55] P.A. Cornwell, B.W. Barry, Sesquiterpene components of volatile oils as skin penetration enhancers for the hydrophilic permeant 5-fluorouracil, J. Pharm.
+Pharmacol. 46 (1994) 261–269.
+[56] R. Kadir, B.W. Barry, α-Bisabolol, a possible safe penetration enhancer for dermal
+and transdermal therapeutics, Int. J. Pharm. 70 (1991) 87–94.
+[57] A.K. Jain, N.S. Thomas, R. Panchagnula, Transdermal drug delivery of imipramine
+hydrochloride: I. Effect of terpenes, J. Control. Release 79 (2002) 93–101.
+[58] A.F. El-Kattan, C.S. Asbill, B.B. Michniak, The effect of terpene enhancer lipophilicity on the percutaneous permeation of hydrocortisone formulated in HPMC gel
+systems, Int. J. Pharm. 198 (2000) 179–189.
+[59] D. Monti, P. Chetoni, S. Burgalassi, M. Najarro, M.F. Saettone, E. Boldrini, Effect of
+different terpene-containing essential oils on permeation of estradiol through
+hairless mouse skin, Int. J. Pharm. 237 (2002) 209–214.
+[60] K. Cal, S. Janicki, M. Sznitowska, In vitro studies on penetration of terpenes from
+matrix-type transdermal systems through human skin, Int. J. Pharm. 224 (2001)
+81–88.
+[61] P.A. Cornwell, B.W. Barry, J.A. Bouwstra, G.S. Gooris, Modes of action of terpene
+penetration enhancers in human skin; differential scanning calorimetry,
+small-angle X-ray diffraction and enhancer uptake studies, Int. J. Pharm 127
+(1996) 9–26.
+[62] A. Kato, Y. Ishibashi, Y. Miyake, Effect of egg-yolk lecithin on transdermal delivery
+of bunazosin hydrochloride, J. Pharm. Pharmacol. 39 (1987) 399–400.
+[63] B.W. Barry, Lipid–protein-partititioning theory of skin penetration enhancement,
+J. Control. Release 15 (1991) 237–248.
+A.C. Williams, B.W. Barry / Advanced Drug Delivery Reviews 64 (2012) 128–137 137
